@@ -3,6 +3,7 @@ background-color: #efe9e9;
 }
 
 header{
+display: flex;
 background-color: #dd70b5;
 }
 
@@ -10,3 +11,9 @@ footer{
 background-color: #dd70b5;
 }
 
+.cabecalho_imagem{
+ width: 200px;
+ height: 200px;
+ border-radius: 50%;
+
+}
