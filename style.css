@@ -20,6 +20,12 @@ background-color: #dd70b5;
  padding: 20px;
 }
 
+.cabecalho_menu-lista{
+
+margin: 20px;
+
+}
+
 .cabecalho_menu-listaitem{
     display: inline;
     text-transform: uppercase;
